@@ -22,7 +22,7 @@ Agora que você clonou o projeto para o seu computador, será necessário instal
 
 ### `npm install`
 
-Com a aplicação clonada e todas as dependências instaladas você pode executar o comando abaixo para iniciar a aplicação:
+Com a aplicação clonada e todas as dependências instaladas você pode executar o comando abaixo para iniciar o servidor:
 
 ### `npm start`
 
